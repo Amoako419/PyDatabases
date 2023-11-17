@@ -1,0 +1,5 @@
+('Monty Python', 1975, 8.2)
+('Wednesday', 2023, 8.5)
+('Power', 2023, 8.6)
+('Mission Impossible', 2023, 8.0)
+('John Wick', '2023', '9.0')
